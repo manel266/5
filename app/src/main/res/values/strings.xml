@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string-array name="tit">
+        <item>Photo de Sesame</item>
+        <item>Photo de Manel</item>
+        <item>Photo de chaima</item>
+        <item>Photo de hela</item>
+        <item>Photo de Maha</item>
+        <item>Titre6</item>
+    </string-array>
+    <string-array name="Stit">
+        <item>Education</item>
+        <item>Beauté</item>
+        <item>La classe</item>
+        <item>Joliesse</item>
+        <item>Trés jolie</item>
+        <item>Sous Titre6</item>
+    </string-array>
+</resources>
